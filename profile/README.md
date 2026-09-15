@@ -6,24 +6,24 @@ good games better, and patches that keep old ones alive.
 
 ## Handhelds and Steam on Windows
 
-- **WSGM**: Windows Steam Game Mode. Rebuilds the SteamOS Game Mode experience on Windows 11 gaming handhelds.
-- **steam-input-lease**: makes Steam let go of your controllers while a game runs and hands them back afterwards. A drop-in launcher, or a library with C and .NET bindings.
-- **steam-ui-toolkit**: add, hide and rearrange elements in Steam's Big Picture interface from .NET.
-- **windows-device-control**: Wi-Fi, Bluetooth, audio and brightness control for .NET apps, including the parts Windows never documented.
+- **[WSGM](https://github.com/KillerPixelCrew/WSGM)**: Windows Steam Game Mode. Rebuilds the SteamOS Game Mode experience on Windows 11 gaming handhelds.
+- **[steam-input-lease](https://github.com/KillerPixelCrew/steam-input-lease)**: makes Steam let go of your controllers while a game runs and hands them back afterwards. A drop-in launcher, or a library with C and .NET bindings.
+- **[steam-ui-toolkit](https://github.com/KillerPixelCrew/steam-ui-toolkit)**: add, hide and rearrange elements in Steam's Big Picture interface from .NET.
+- **[windows-device-control](https://github.com/KillerPixelCrew/windows-device-control)**: Wi-Fi, Bluetooth, audio and brightness control for .NET apps, including the parts Windows never documented.
 
 ## Controllers
 
-- **sc2dsu**: gyro, buttons and sticks from the 2015 and 2026 Steam Controllers for Cemu, Eden, Citra, Ryujinx and other DSU emulators. Windows and Linux.
+- **[sc2dsu](https://github.com/KillerPixelCrew/sc2dsu)**: gyro, buttons and sticks from the 2015 and 2026 Steam Controllers for Cemu, Eden, Citra, Ryujinx and other DSU emulators. Windows and Linux.
 
 ## Everyday annoyances
 
-- **NoVidiaApp**: NVIDIA driver settings, game profiles and driver updates without the NVIDIA App. No account, no telemetry.
-- **WakeWatch**: a tray icon that shows when something keeps your screen or PC awake. Made for OLED owners.
+- **[NoVidiaApp](https://github.com/KillerPixelCrew/NoVidiaApp)**: NVIDIA driver settings, game profiles and driver updates without the NVIDIA App. No account, no telemetry.
+- **[WakeWatch](https://github.com/KillerPixelCrew/WakeWatch)**: a tray icon that shows when something keeps your screen or PC awake. Made for OLED owners.
 
 ## Mods and preservation
 
-- **lifesupport-TheMovies**: keeps Lionhead's The Movies (2005) working by swapping its Windows Media video pipeline for FFmpeg and libmpv.
-- **ReScaleFrame**: a framework for reverse engineering games to add modern upscaling and frame generation.
+- **[lifesupport-TheMovies](https://github.com/KillerPixelCrew/lifesupport-TheMovies)**: keeps Lionhead's The Movies (2005) working by swapping its Windows Media video pipeline for FFmpeg and libmpv.
+- **[ReScaleFrame](https://github.com/KillerPixelCrew/ReScaleFrame)**: a framework for reverse engineering games to add modern upscaling and frame generation.
 
 ## Something annoying you?
 
