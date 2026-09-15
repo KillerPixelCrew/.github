@@ -30,4 +30,12 @@ good games better, and patches that keep old ones alive.
 Found a bug? Open an issue on the project it belongs to. Got a gaming annoyance none of these cover?
 Tell us. It might become the next one.
 
+## Contributing
+
+Pull requests are open and welcome on every project.
+
+This is an AI-friendly org, so contributing with coding agents is fine. Many projects ship agent
+instructions (`AGENTS.md` or `CLAUDE.md`), and some also come with skills, so your agent knows the
+project's rules from the start.
+
 If something here saved you a headache, you can fuel the caffeine at https://ko-fi.com/nightstorm1000
