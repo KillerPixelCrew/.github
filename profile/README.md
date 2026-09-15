@@ -24,6 +24,7 @@ good games better, and patches that keep old ones alive.
 
 - **[lifesupport-TheMovies](https://github.com/KillerPixelCrew/lifesupport-TheMovies)**: keeps Lionhead's The Movies (2005) working by swapping its Windows Media video pipeline for FFmpeg and libmpv.
 - **[ReScaleFrame](https://github.com/KillerPixelCrew/ReScaleFrame)**: a framework for reverse engineering games to add modern upscaling and frame generation.
+- **[VulkanStory](https://github.com/KillerPixelCrew/VulkanStory)**: Vulkan for Vintage Story, delivering TAA and DLSS, XeSS and FSR with frame generation. Based on [Optimum](https://github.com/StratumServer/Optimum).
 
 ## Something annoying you?
 
